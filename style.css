@@ -44,11 +44,11 @@ input:focus {
     padding-left: 20px;
 }
 .list-item:hover{
-    background-color: #959de2;
+    background-color: #2ea8b1;
 }
 
 .list-item{
-    background: #EFE526;
+    background: #76711a;
     height: 4rem;    
     color: black;
     display: flex;
@@ -77,13 +77,13 @@ input:focus {
     padding: 40px;   
     color: #ffffff;
     text-align: center;
-    border-top: 3px solid #EFE526;
+    border-top: 3px solid #2a11a5;
     font-size: 15px;
 }
 .clearall{
     height: 4rem;    
     color: #352f5b;
-    background-color: #EFE526;
+    background-color: #1d814a;
     display: flex;
     justify-content: center;
     align-items: center;
